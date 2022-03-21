@@ -10,7 +10,7 @@ layout in a horizontal orientation
 
 layout variant for tablets
 
-<img src="screenshots/x-large.png" width="250" height="450">
+<img src="screenshots/x-large.png" width="200" height="450">
 
 Linear layout
 
