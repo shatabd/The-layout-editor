@@ -6,9 +6,9 @@
 
 layout in a horizontal orientation
 
-<img src="screenshots/layout%20land.png" width="500">
+<img src="screenshots/land%20task.gif" width="500">
 
-<img src="screenshots/land%task.gif" width="500">
+<img src="screenshots/layout%20land.png" width="500">
 
 layout variant for tablets
 
