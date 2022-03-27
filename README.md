@@ -23,7 +23,7 @@ landscape orientation
 
 Linear layout
 
-<img src="screenshots/layout%20linear.png" width="250" height="450">
+<img src="screenshots/linear.gif" width="250" height="450">
 
 ## Task 3
 
